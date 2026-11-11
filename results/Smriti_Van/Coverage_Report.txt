@@ -1,0 +1,17 @@
+===================================
+    DRONE FLIGHT COVERAGE REPORT   
+===================================
+
+Perimeter:         2584.27 m
+Boundary Area:     171125.45 sq.m
+Drone Height:      30 m
+Camera FOV:        80°
+Coverage Radius:   25.17 m
+Single Node Area:  1990.76 sq.m
+Total HCP Nodes:   106
+Optimized Path:    5396.90 m
+
+Files successfully exported:
+- Drone_Mission_Table.xlsx (ID, Lat, Lon, X, Y, Alt)
+- Graph_01_Stretched_Node_Coverage.png
+- Graph_02_Stretched_TSP_Route.png

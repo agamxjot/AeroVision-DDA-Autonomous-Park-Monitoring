@@ -1,0 +1,20 @@
+# Datasets
+datasets/
+data/
+*.zip
+*.rar
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Cache
+__pycache__/
+runs/
+wandb/
+.cache/
+
+# Temporary files
+*.tmp
+*.log
