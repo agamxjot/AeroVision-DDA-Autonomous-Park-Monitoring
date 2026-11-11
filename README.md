@@ -1,4 +1,4 @@
-# DDA Autonomous Park Monitoring System
+# AeroVision: DDA Autonomous Park Monitoring System
 
 A drone-based autonomous park monitoring system combining computer vision, geospatial coverage planning, route optimization, and multi-drone mission simulation.
 
